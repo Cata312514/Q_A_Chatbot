@@ -4,7 +4,7 @@ from streamlit_chat import message
 from typing import Set
 from ingestion import ingest_docs, split_text_chunks, get_vectorstore
 from core import run_llm
-from htmlTemplates import user_template, bot_template, css
+from temp4interface import user_template, bot_template, css
 
 # Retrieves answer to question from the database and store all questions and answers
 def control_userinput(user_query):
