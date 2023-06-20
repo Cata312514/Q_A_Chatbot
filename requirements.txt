@@ -1,0 +1,9 @@
+streamlit
+streamlit-chat
+openai
+python-dotenv
+langchain
+pypdf2
+beautifulsoup4
+pinecone-client
+unstructured
