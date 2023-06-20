@@ -28,17 +28,7 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="streamlit
-streamlit-chat
-openai
-python-dotenv
-langchain
-pypdf2
-beautifulsoup4
-pinecone-client
-unstructured
-
-https://github.com/Cata312514/Q_A_Chatbot/blob/9be6b6472d5e350542fb0f000800b6daf169085f/chatbot.JPG" alt="Smart PDF Chatbot" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
+        <img src="https://github.com/Cata312514/Q_A_Chatbot/blob/9be6b6472d5e350542fb0f000800b6daf169085f/chatbot.JPG" alt="Smart PDF Chatbot" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
@@ -47,17 +37,7 @@ https://github.com/Cata312514/Q_A_Chatbot/blob/9be6b6472d5e350542fb0f000800b6daf
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="streamlit
-streamlit-chat
-openai
-python-dotenv
-langchain
-pypdf2
-beautifulsoup4
-pinecone-client
-unstructured
-
-https://github.com/Cata312514/Q_A_Chatbot/blob/9be6b6472d5e350542fb0f000800b6daf169085f/chatbot.JPG" alt="user">
+        <img src="https://github.com/Cata312514/Q_A_Chatbot/blob/9be6b6472d5e350542fb0f000800b6daf169085f/user.JPG" alt="user">
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
