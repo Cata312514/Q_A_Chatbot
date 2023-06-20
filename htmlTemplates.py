@@ -28,7 +28,17 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://drive.google.com/file/d/1Pj92KQ04XBU3bJ-OmsGsN2lAoFNxGJpA/view?usp=drive_link" alt="Smart PDF Chatbot" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
+        <img src="streamlit
+streamlit-chat
+openai
+python-dotenv
+langchain
+pypdf2
+beautifulsoup4
+pinecone-client
+unstructured
+
+https://github.com/Cata312514/Q_A_Chatbot/blob/9be6b6472d5e350542fb0f000800b6daf169085f/chatbot.JPG" alt="Smart PDF Chatbot" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
@@ -37,7 +47,17 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://drive.google.com/file/d/1P8WT0kdd2KMB2WLNeVVi4B9VKEOmmV6N/view?usp=drive_link" alt="user">
+        <img src="streamlit
+streamlit-chat
+openai
+python-dotenv
+langchain
+pypdf2
+beautifulsoup4
+pinecone-client
+unstructured
+
+https://github.com/Cata312514/Q_A_Chatbot/blob/9be6b6472d5e350542fb0f000800b6daf169085f/chatbot.JPG" alt="user">
     </div>    
     <div class="message">{{MSG}}</div>
 </div>

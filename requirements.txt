@@ -7,3 +7,5 @@ pypdf2
 beautifulsoup4
 pinecone-client
 unstructured
+
+https://github.com/Cata312514/Q_A_Chatbot/blob/9be6b6472d5e350542fb0f000800b6daf169085f/chatbot.JPG
